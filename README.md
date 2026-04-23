@@ -42,4 +42,4 @@ This skill still has some limitations:
 - it is designed for simple validation, not complex schema validation
 
 ## Demo video
-PASTE_YOUR_VIDEO_LINK_HERE
+https://youtu.be/L39iUId-gTQ
